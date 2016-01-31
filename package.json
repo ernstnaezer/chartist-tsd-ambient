@@ -1,0 +1,15 @@
+{
+  "name": "retyped-chartist-tsd-ambient",
+  "description": "TypeScript typings for chartist",
+  "version": "0.9.4-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/chartist-tsd-ambient",
+  "typescript": {
+    "definition": "chartist.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
